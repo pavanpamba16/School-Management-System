@@ -8,14 +8,6 @@ Seamlessly track attendance, assess performance, and provide feedback. <br>
 Access records, view marks, and communicate effortlessly.
 </h3>
 
-<p>
-  <a href="https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC">Youtube Video</a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/yogndrr/">LinkedIn</a>
-</p>
-
 
 # About
 
