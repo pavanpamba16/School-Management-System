@@ -37,11 +37,6 @@ The School Management System is a web-based application built using the MERN (Mo
 
 # Installation
 
-Clone the project:
-
-```
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
-```
 
 There are three branches in this repository. Each serves a different purpose.
 
@@ -220,12 +215,7 @@ Vercel deploys React-based frontends easily. Same build command. Same publish di
 ## Connecting frontend and backend
 
 After deploying both sides, set the frontend environment variable to point to your backend URL. For example:
-
-```
-REACT_APP_BASE_URL=https://your-backend.onrender.com
-```
-
-Rebuild the frontend when deploying to Netlify or Vercel.
+.
 
 # Notes
 
